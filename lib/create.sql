@@ -1,6 +1,9 @@
 CREATE TABLE project (
     id INTEGER PRIMARY KEY,
-    name TEXT,
+    title TEXT,
+    goal INTEGER,
+    start_date TEXT,
+    end_date TEXT,
     teacher_id INTEGER);
 
 CREATE TABLE user (
