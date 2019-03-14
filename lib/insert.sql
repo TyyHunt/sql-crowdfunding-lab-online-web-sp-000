@@ -18,3 +18,24 @@ INSERT INTO users (name, age) VALUES ("Tanya", 27);
 INSERT INTO users (name, age) VALUES ("Bob", 26);
 INSERT INTO users (name, age) VALUES ("Gary", 38);
 INSERT INTO users (name, age) VALUES ("Donna", 28);
+
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+ VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
