@@ -22,20 +22,20 @@ INSERT INTO users (name, age) VALUES ("Donna", 28);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("The new Baseball", "Sports", 20000, "7\21\19", "6\25\20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("Night Vision Glasses", "Tech", 1000000, "4\2\19", "9\8\20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("Insta Omelet", "Food", 5000, "5\15\19", "10\10\19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("Forever Fireplace", "Business", 500000, "11\26\19", "12\25\21");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("Dander Free Life", "Business",10000, "1\1\19", "1\1\20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("VR Office", "Tech", 1000000, "2\14\19", "7\4\22");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("Perfect Swing Golf Club", "Sports", 500000, "1\31\19", "12\31\20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("80 Proof Beer", "Food", 500000, "8\1\18", "8\31\20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-  VALUES ("The Best", "Business", 500000, "3\10\19", "3\10\21");
+  VALUES ("Self Driving Bike", "Tech", 15000, "3\10\19", "3\10\21");
